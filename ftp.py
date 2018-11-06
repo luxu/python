@@ -10,7 +10,6 @@ import configparser
 config = configparser.ConfigParser()
 config.read('config.ini')
 
-
 file = ""
 # https://docs.python.org/3/library/ftplib.html
 
