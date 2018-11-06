@@ -3,4 +3,5 @@
 *.yml
 geckodriver.log
 remuneracaoSAP.txt
-*.txt
+.txt
+.log
