@@ -14,8 +14,8 @@ tag_do_cla = "9Y92GY80" # Disneylandia
 nome_do_cla = "Disneylandia"
 
 # remove o arquivo ANTES de salvá-lo dnv
-if os.path.isfile("%s.txt" % nome_do_cla):
-    os.remove("%s.txt" % nome_do_cla)
+if os.path.isfile("../%s.txt" % nome_do_cla):
+    os.remove("../%s.txt" % nome_do_cla)
 
 
 # url = "https://api.royaleapi.com/clan/%s" % tag_do_cla
