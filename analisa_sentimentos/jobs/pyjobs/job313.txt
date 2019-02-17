@@ -1,0 +1,42 @@
+
+            
+                
+                    Programador Python/Django
+                    Local da vaga: Alto da Lapa
+                    Empresa: Projeto FAPESP
+                    Postada: 29 de Janeiro de 2019
+                
+                
+                  
+                    
+                      Você precisa estar logado para aplicar para esta vaga!
+                    
+                  
+                    
+                        
+                            
+                                Django
+                            
+                                Python
+                            
+                        
+                    
+                    
+                        Descrição da vaga
+                        
+                          
+                            O profissional será responsável por desenvolver novas funcionalidades e dar manutenção em um portal Python/Django. O mesmo terá a  liberdade para lidar com novas tecnologias e propor novas funcionalidades aos sistemas existentes.
+                          
+                        
+                    
+                    
+                        Requisitos
+                        
+                          
+                            - Python - Django
+                          
+                        
+                    
+                
+            
+        

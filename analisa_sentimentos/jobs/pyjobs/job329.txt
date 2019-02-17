@@ -1,0 +1,52 @@
+
+            
+                
+                    Desenvolvedor Python Pleno
+                    Local da vaga: São Caetano do Sul
+                    Empresa: ECOD3
+                    Postada: 11 de Fevereiro de 2019
+                
+                
+                  
+                    
+                      Você precisa estar logado para aplicar para esta vaga!
+                    
+                  
+                    
+                        
+                            
+                                ETL
+                            
+                                GitHub
+                            
+                                Python
+                            
+                        
+                    
+                    
+                        Descrição da vaga
+                        
+                          
+                            Que tal vir para ECOD3 ... Codificar, testar e publicar muitos códigos Python mundo a fora!!
+
+Ainda terá a oportunidade de conhecer culturas e tecnologias como OpenSource, Scrum, Devops, AWS, Docker, Zabbix e muito mais.
+
+Boa lógica de programação é fundamental, conhecimento em Python e pensar fora da caixa.
+
+A ideia é contribuir, aprender, brincar e aperfeiçoar conhecimentos conosco!!
+                          
+                        
+                    
+                    
+                        Requisitos
+                        
+                          
+                            - Usar git e linux;- Conhecimentos a nível pleno em python;
+
+Diferencial- Inglês fluente;- Bigdata (ETL)
+                          
+                        
+                    
+                
+            
+        

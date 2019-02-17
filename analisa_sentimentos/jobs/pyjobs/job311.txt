@@ -1,0 +1,40 @@
+
+            
+                
+                    Cientista de dados Júnior
+                    Local da vaga: São Paulo
+                    Empresa: ML Gomes Serviços Financeiros
+                    Postada: 28 de Janeiro de 2019
+                
+                
+                  
+                  
+                  Ir para o site da Vaga
+                  
+                  
+                    
+                        
+                            
+                                PL/SQL
+                            
+                        
+                    
+                    
+                        Descrição da vaga
+                        
+                          
+                            Levantamento e documentação de requisitos. Captura e manipulação de dados. Tratamento e higienização de dados (função principal). Criação da arquitetura de coleta e transformação de dados em informações confiáveis. Exploração e análises descritivas. Garantir entregas dentro do prazo e com qualidade.
+                          
+                        
+                    
+                    
+                        Requisitos
+                        
+                          
+                            Domínio em Python, domínio em SQL Spark, (desejável), Business Intelligence, Big Data. Modelos estatísticos (diferencial). Desejável conhecimento em call center.
+                          
+                        
+                    
+                
+            
+        

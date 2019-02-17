@@ -1,0 +1,40 @@
+
+            
+                
+                    Desenvolvedor Fullstack PythonJSr e Python Sr.
+                    Local da vaga: Rio de Janeiro
+                    Empresa: Meta Consultoria
+                    Postada: 28 de Janeiro de 2019
+                
+                
+                  
+                    
+                      Você precisa estar logado para aplicar para esta vaga!
+                    
+                  
+                    
+                        
+                            
+                                Python
+                            
+                        
+                    
+                    
+                        Descrição da vaga
+                        
+                          
+                            Conhecimentos em ferramentas e abordagens de integração e entrega contínua e testes automatizados. Experiência profissional com frameworks Javascript MVC (por exemplo NodeJS, ReactJS, Bootstrap , etc.) Experiência com desenvolvimento e tecnologias orientadas a nuvem (AWS, Azzure, por exemplo). "Pessoas com deficiência (PCDs) são bem vindas!
+                          
+                        
+                    
+                    
+                        Requisitos
+                        
+                          
+                            Desenvolvedor Fullstack Preferencialmente com +5 anos de desenvolvimento experiência em backend * Foco em Novos desenvolvimentos na linguagem Python • Domínio de bancos de dados NoSQL •	Experiência em metodologias de desenvolvimento ágil. • Domínio de APIs Rest • Domínio processamento assíncrono; • Experiência com TDD
+                          
+                        
+                    
+                
+            
+        

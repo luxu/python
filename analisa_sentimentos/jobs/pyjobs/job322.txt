@@ -1,0 +1,42 @@
+
+            
+                
+                    Analista/Desenvolvedor
+                    Local da vaga: Vila Clementino - São Paulo
+                    Empresa: Secretaria de Educação do Estado de São Paulo
+                    Postada: 4 de Fevereiro de 2019
+                
+                
+                  
+                    
+                      Você precisa estar logado para aplicar para esta vaga!
+                    
+                  
+                    
+                        
+                            
+                                Django
+                            
+                                Linux
+                            
+                        
+                    
+                    
+                        Descrição da vaga
+                        
+                          
+                            Para atender a Secretaria da educação de SP na Vila Clementino, procuramos por analistas/devs Python.
+                          
+                        
+                    
+                    
+                        Requisitos
+                        
+                          
+                            - Linux- Django- Superior completo
+                          
+                        
+                    
+                
+            
+        

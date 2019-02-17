@@ -1,0 +1,58 @@
+
+            
+                
+                    Python Back End Engineer
+                    Local da vaga: Florianópolis - SC
+                    Empresa: Loadsmart
+                    Postada: 4 de Fevereiro de 2019
+                
+                
+                  
+                  
+                  Ir para o site da Vaga
+                  
+                  
+                    
+                        
+                            
+                                AWS
+                            
+                                Django
+                            
+                                Elasticsearch
+                            
+                                Heroku
+                            
+                                Kubernetes Experts
+                            
+                                PostgreSQL
+                            
+                                Python
+                            
+                        
+                    
+                    
+                        Descrição da vaga
+                        
+                          
+                            We are looking for a Python Back End Engineer to work in Florianopolis with Loadsmart.  
+
+You should have experience and a proven ability to use experimental ideas to develop new solutions, build new products, and create new concepts.
+
+Key Responsibilities:* Roll up your sleeves and develop code from day oneActively contribute to and support the design, deployment, and maintenance of critical systems* Partner with and support all members of our creative, tight-knit team  * Exercise your intuitive ability for creative problem solving and contagious positive passion to solve challenging and exciting problems and inspire those around you* Move seamlessly from high-altitude thinking to the tangible and practical as a productive member of a lean software development team
+                          
+                        
+                    
+                    
+                        Requisitos
+                        
+                          
+                            Qualifications:
+
+* You’re fluent in English (both written and spoken)* Programming experience with Python* Experience with testing your own development code* Experience with relational databases (MySQL and PostgreSQL) or columnar databases (Vertica, Redshift, Greenplum) a plus* BS or MS in Computer Science or related field would be cool, but it is not mandatory.
+                          
+                        
+                    
+                
+            
+        

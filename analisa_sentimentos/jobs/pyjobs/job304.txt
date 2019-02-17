@@ -1,0 +1,42 @@
+
+            
+                
+                    Desenvolvedor Sênior
+                    Local da vaga: Brasilia - Distrito Federal
+                    Empresa: WebSis
+                    Postada: 21 de Janeiro de 2019
+                
+                
+                  
+                    
+                      Você precisa estar logado para aplicar para esta vaga!
+                    
+                  
+                    
+                        
+                            
+                                Python
+                            
+                        
+                    
+                    
+                        Descrição da vaga
+                        
+                          
+                            Início imediato no DF.Atribuições: desenvolvimento de aplicações usando python/django, mediante fábrica de software.Vaga para CLT, salário a combinar.
+                          
+                        
+                    
+                    
+                        Requisitos
+                        
+                          
+                            Conhecimentos necessários e experiência comprovada em:
+
+Python e Django (bom, avançado);HTML/CSSJavaScript;
+                          
+                        
+                    
+                
+            
+        

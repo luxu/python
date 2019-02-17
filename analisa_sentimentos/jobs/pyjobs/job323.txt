@@ -1,0 +1,44 @@
+
+            
+                
+                    Desenvolvevedor Python Pleno
+                    Local da vaga: Vila Leopoldina
+                    Empresa: Pasquali Solution
+                    Postada: 4 de Fevereiro de 2019
+                
+                
+                  
+                  
+                  Ir para o site da Vaga
+                  
+                  
+                    
+                        
+                            
+                                Oracle
+                            
+                                Python
+                            
+                        
+                    
+                    
+                        Descrição da vaga
+                        
+                          
+                            Desenvolvedor Python Pleno e Sênior. 
+
+Criação de Stored Procedures em Oracle para resolver demandas do negócio, bem como análise, extração de dados e criação de modelos na linguagem Python.                                         Requisitos:                                                                                                                                          - Conhecimentos em técnicas de Machine Learning, programação paralela e frameworks de deep learning.- Processamento de grandes volumes de dados.- Modelagem Estatística- Desejável experiência em Análise de Negócios de Riscos ou Sistemas Bancários.
+                          
+                        
+                    
+                    
+                        Requisitos
+                        
+                          
+                            - Oracle- modelos na linguagem Python
+                          
+                        
+                    
+                
+            
+        

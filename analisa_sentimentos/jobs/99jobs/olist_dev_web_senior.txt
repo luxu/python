@@ -1,0 +1,156 @@
+
+Desenvolvedor(a) Web Python Sênior
+Nível Sênior
+Curitiba - PR, Brasil
+
+Rua Marechal Deodoro, 630, 25º Andar - Centro Comercial Itália - Centro
+Faltam 322 dias para encerrar!
+Como é o ambiente de trabalho?
+
+A equipe de desenvolvimento do Olist é 100% remota. No nosso time contamos com profissionais experientes, que possuem espírito de equipe, e que podem trabalhar de casa, coworking, ou qualquer outro lugar de sua preferência.
+
+Os profissionais de desenvolvimento do Olist podem contar com um ambiente onde a autonomia e a coragem são bastante estimuladas. Valorizamos novas ideias, criatividade, confiança, companheirismo e bom humor. Aprendemos juntos e não abrimos mão das boas práticas de desenvolvimento de software.
+
+Nossa dia-a-dia de trabalho é desafiador e intenso porém não costumamos fazer muitas horas extras. Prezamos pela qualidade de vida dos nossos colaboradores e acreditamos que um equilíbrio entre vida pessoal e profissional é essencial.
+
+A plataforma da Olist precisa estar preparada para o seu rápido crescimento. Para desenvolver os nossos sistemas utilizamos:
+
+
+    Squads
+
+    Métodos ágeis
+
+    Trabalho remoto
+
+    Code Review
+
+    Python 3 + Django + Django REST Framework
+
+    PostgreSQL
+
+    Heroku
+
+    AWS SNS e SQS para mensageria
+
+    CircleCI para Continuous Integration
+
+    Git (Github)
+
+Responsabilidades da Oportunidade
+
+Você irá planejar, desenvolver e implementar novas funcionalidades em nossa plataforma na forma de serviços (SOA/Microserviços) ou APIs. Você trabalhará com Python e Django no desenvolvimento de aplicações em um ambiente que valoriza as boas práticas de programação (ex. testes automatizados, code review, etc) e um método de trabalho ágil.
+
+Procuramos programadores que gostem de aprender coisas novas, e que amam o que fazem. Para mais informações sobre o que estamos criando leiam o nosso blog.
+
+Requisitos
+
+
+    Ter autonomia, capacidade de autogestão e auto-organização do trabalho
+
+    Ter histórico de trabalhos em projetos relevantes profissionalmente ou em projetos FOSS
+
+    Python 3 e algum framework Web (preferencialmente Django)
+
+    Conhecimentos em HTML5, CSS3 e Javascript básico
+
+    Testes automatizados e/ou TDD
+
+    Modelagem e consumo de API's REST
+
+    Modelagem de bancos de dados relacionais (preferencialmente PostgreSQL)
+
+    AWS (preferencialmente SNS e SQS)
+
+    Git para versionamento de código
+
+    Inglês para leitura e escrita
+
+    A vaga é para trabalho remoto CLT.
+
+Diferencial
+
+Os itens abaixo não são obrigatórios mas farão você brilhar!
+
+
+    Ter trabalhado em projeto no setor de e-commerce
+
+    Conhecer ou ter trabalhado com Django REST Framework
+
+    Ter tido experiência com trabalho remoto.
+
+Benefícios
+
+    Assist. Médica
+    Assist. Odontológica
+    Poss. Horário Flexível
+    Vale Refeição
+    Vale Transporte
+    Academia / Práticas Esportivas
+    Vale Alimentação
+
+Observações e/ou Benefícios Adicionais
+
+Gympass (prática esportiva), Magnetis (finanças pessoais), Trabalho Remoto, Oportunidades de Crescimento e Aprendizado, Plano de Saúde, Plano Odontológico. Permitimos que os desenvolvedores possam participar de eventos relevantes de tecnologia (negociados previamente com a equipe).
+Preciso morar em Curitiba?
+
+Para essa vaga não é necessário morar em Curitiba. Oferecemos a possibilidade de trabalho remoto.
+A vaga é para freelance ou para integrar a equipe da Olist?
+
+A vaga é para integrar a equipe da Olist e fazer parte do nosso quadro de colaboradores.
+Qual é a modalidade de contratação?
+
+A contratação será feita no regime CLT Full-time (08 horas por dia, 40 horas semanais)
+Se eu quiser ser contratado como PJ, seria possível?
+
+Não. Não podemos efetuar contratações nessa modalidade.
+Vocês tem flexibilidade de jornada?
+
+Sim. Nosso sistema de horário é semi-flexível. Precisamos que o profissional esteja disponível para interagir com outros integrantes do time por um período de pelo menos 6hs das 08hs de trabalho no dia (seg-sex).
+Vocês fazem hora extra ou banco de horas?
+
+Usamos métodos ágeis no nosso dia-a-dia e, por isso, sabemos que horas extras não fazem bem para o trabalho. Apesar disso, em raras ocasiões, precisamos trabalhar em horários alternativos.
+
+O fato é que temos a filosofia de que o trabalho bem organizado e planejado permite que o horário normal de trabalho seja suficiente.
+Qual a faixa salarial da vaga?
+
+Esse anúncio serve para profissionais com diversos níveis de experiência e esse nível de experiência é o que determina o salário do candidato. O que podemos afirmar é que nossas faixas saláriais estão acima da média de São Paulo - SP (fonte: https://www.lovemondays.com.br).
+Missão da Organização
+
+Empowering Commerce
+Sobre a Organização
+
+O Olist é uma grande loja dentro dos marketplaces. É a maior loja de departamentos dos principais e-commerces do Brasil. Além disso, conectamos Micro, Pequenas e Médias Empresas (PMEs) a esses principais marketplaces de maneira totalmente descomplicada por meio de um único contrato. Até hoje já colocamos mais de 3,4 mil lojistas para vender nos grandes portais como Americanas, Ponto Frio, Walmart, Casas Bahia, Submarino, Mercado Livre entre outros. A ideia do Olist nasceu de um período de seis meses do nosso time na 500 Startups - principal aceleradora baseada no Vale do Silício. Voltamos de lá com um crescimento acelerado e por isso investimos constantemente na procura e treinamento de novos talentos para formar um time de profissionais de alto desempenho.
+Neste momento estamos desenvolvendo nossa API pública, que nos permitirá ampliar a atuação do Olist para outros países na América Latina e, num futuro próximo, para outros continentes, conectando PMEs e grandes canais de distribuição por meio de serviços de inteligência e plataformas de alta escalabilidade e disponibilidade.
+Por que trabalhar com a gente?
+
+Não somos uma empresa convencional e nem pretendemos ser. Buscamos manter uma cultura que estimula a criatividade, a participação de todos e o aprendizado contínuo. Temos uma preocupação constante em disseminar a nossa cultura, sempre mantendo todos os Olisters na mesma direção.
+Estamos sempre em busca de profissionais acima da média, com perfil hands on, valorizamos pessoas com um propósito de vida, valores claros e transparentes. Somos uma verdadeira família e temos orgulho de todos que fazem parte da construção deste negócio.
+Nosso objetivo é fazer com que todos cresçam junto com o Olist. O analista de hoje é o coordenador e o gerente de amanhã.
+Nosso ambiente de trabalho é agradável e informal. Apreciamos a diversidade e o bom-humor, criando um espaço leve e divertido. Celebramos conquistas, e buscamos resultados relevantes sem depender de estruturas rígidas.
+Valorizamos os diferentes tipos de perfis, pois acreditamos que as pessoas se completam. O trabalho em equipe é fundamental no Olist: juntos somos mais fortes. Nossa equipe é motivada e focada em resultados.
+Informações adicionais sobre a organização
+
+Número de Funcionários
+51 a 200 funcionários
+
+Fundação
+2015
+
+Faturamento Anual (em R$)
+Não Divulgado
+
+Sede Global
+Curitiba, Paraná
+
+Setores
+Serviços, Tech, Geeks & Nerds, Varejo e Comércio
+
+Website
+https://olist.com
+Premiações
+
+    2018
+
+    30 Empresas mais amadas
+    15º empresa mais amada do país
+

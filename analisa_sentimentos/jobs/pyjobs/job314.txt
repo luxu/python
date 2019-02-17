@@ -1,0 +1,48 @@
+
+            
+                
+                    Desenvolvedor Python / C++
+                    Local da vaga: Vila Madalena - São Paulo, SP
+                    Empresa: Screencorp
+                    Postada: 29 de Janeiro de 2019
+                
+                
+                  
+                  
+                  Ir para o site da Vaga
+                  
+                  
+                    
+                        
+                            
+                                API
+                            
+                                C
+                            
+                                C++
+                            
+                                Linux
+                            
+                                Python
+                            
+                        
+                    
+                    
+                        Descrição da vaga
+                        
+                          
+                            Buscamos Desenvolvedor(a) Python, com bons conhecimentos em C/C++, para ser o(a) responsável por desenvolver, a partir do zero, media player para desktops Windows e Linux, para funcionar 24/7. Temos grandes clientes em diversos segmentos de mercado. Veja mais em https://screencorp.com.br/ e https://phonecorp.com.br/
+                          
+                        
+                    
+                    
+                        Requisitos
+                        
+                          
+                            - 4+ anos de experiência com Python- 4+ anos de experiência com C/C++- Domínio de Orientação à Objetos- Experiência comprovada com aplicativos desktop e UI- Experiência em gestão (download, cache, buffering e reprodução) de mídias (vídeos e imagens)- Experiência em otimização de memória e recursos de hardware- Experiência com utilização de API REST* Experiência com versionamento utilizando Git* Experiência com controle de bugs e crashes
+                          
+                        
+                    
+                
+            
+        

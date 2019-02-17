@@ -1,0 +1,48 @@
+
+            
+                
+                    DESENVOLVEDOR VISÃO COMPUTACIONAL / MACHINE LEARNING
+                    Local da vaga: Campinas, SP
+                    Empresa: Tarvos
+                    Postada: 5 de Fevereiro de 2019
+                
+                
+                  
+                  
+                  Ir para o site da Vaga
+                  
+                  
+                    
+                        
+                            
+                                Data Scientists
+                            
+                                Python
+                            
+                        
+                    
+                    
+                        Descrição da vaga
+                        
+                          
+                            Atuar no desenvolvimento de técnicas de processamento e classificação de imagens utilizando ferramentas de aprendizado de máquina, redes neurais convolucionais e ferramentas estatísticas em Python, para um sistema embarcado (otimizado) criado pela empresa.
+                          
+                        
+                    
+                    
+                        Requisitos
+                        
+                          
+                            Requisitos:
+
+Graduação em ciência da computação, engenharia ou áreas relacionadasDomínio de ferramentas de processamento de imagens em Python, como OpenCVExperiência com Visão Computacional utilizando OpenCV ou similarExperiência com algoritmos de aprendizado de máquina (machine learning)Experiência em trabalhos com frameworks para Deep Learning (PyTorch, Keras, Caffe, TensorFlow, Theano, Numpy, Scipy)Conhecimento em construção de modelos Deep LearningDomínio de ferramentas estatísticas em Python (Numpy, Scipy, etc.)Experiência mínima de dois anos (será um fator de classificação)Ter disponibilidade para trabalhar no escritório da empresa  Inglês Intermediário
+
+Diferencial:
+
+Trabalhos com sistemas otimizadosNoções de hardware para visão computacional
+                          
+                        
+                    
+                
+            
+        

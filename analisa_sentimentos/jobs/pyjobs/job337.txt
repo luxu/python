@@ -1,0 +1,52 @@
+
+            
+                
+                    Estágio Engenheiro Cloud
+                    Local da vaga: ZS São Paulo / SP
+                    Empresa: Mauá Capital
+                    Postada: 12 de Fevereiro de 2019
+                
+                
+                  
+                    
+                      Você precisa estar logado para aplicar para esta vaga!
+                    
+                  
+                    
+                        
+                            
+                                AWS
+                            
+                                Python
+                            
+                        
+                    
+                    
+                        Descrição da vaga
+                        
+                          
+                            O Mauá Lab é o laboratório de inovação digital dentro da Mauá Capital (www.mauacapital.com) e tem a missão de tornar mais eficiente os seus processos buscando e implantando soluções tecnológicas para as mais diversas necessidades.
+
+Estamos com uma vaga de Estágio para Engenheiro Cloud aberta e procuramos um profissional inteligente, bem capacitado que não pare de buscar aprimoramento constante do seu conhecimento.
+
+O estagiário para Engenheiro Cloud no Mauá Lab tem como missão de arquitetar, integrar e operar sistemas em nuvem; automatizar deploy de sistemas, incluindo o desenvolvimento dos scripts; desenvolver pequenos sistemas para atender necessidades internas; e pesquisar e testar as melhores soluções para os projetos.
+
+O Mauá Lab irá prover para o estagiário Engenheiro Cloud todos os recursos necessários para aprimorar os conhecimentos em criar arquitetura de aplicações para rodar em nuvem.
+                          
+                        
+                    
+                    
+                        Requisitos
+                        
+                          
+                            Qualificações básicas:
+
+- Noções de aplicações em nuvem- Ter os fundamentos em ciência da computação e/ou programação de software- Habilidade de comunicação efetiva, verbal e escrita- Conhecimento em uma ou mais linguagens de programação- Inglês avançado
+
+Experiências que são diferenciais para o candidato:- Linguagem Python- AWS
+                          
+                        
+                    
+                
+            
+        

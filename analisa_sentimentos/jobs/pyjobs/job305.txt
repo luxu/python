@@ -1,0 +1,46 @@
+
+            
+                
+                    Data Scientist Pleno e Sênior
+                    Local da vaga: Paulista - São Paulo - SP
+                    Empresa: Essence It
+                    Postada: 25 de Janeiro de 2019
+                
+                
+                  
+                    
+                      Você precisa estar logado para aplicar para esta vaga!
+                    
+                  
+                    
+                        
+                            
+                                Hadoop
+                            
+                                Python
+                            
+                                Scala
+                            
+                                Spark
+                            
+                        
+                    
+                    
+                        Descrição da vaga
+                        
+                          
+                            Irá Arquitetar sistemas distribuídos. Criar pipelines confiáveis. Combinar fontes de dados. Criar a arquitetura de soluções Ter conhecimentos em Hadoop, Spark, Scala ou Python.
+                          
+                        
+                    
+                    
+                        Requisitos
+                        
+                          
+                            Ter conhecimentos em Hadoop, Spark, Scala ou Python.
+                          
+                        
+                    
+                
+            
+        

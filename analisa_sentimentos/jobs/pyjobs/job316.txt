@@ -1,0 +1,40 @@
+
+            
+                
+                    Analista de MIS
+                    Local da vaga: Rua 15 de novembro, 140 - Centro - SP
+                    Empresa: ML Gomes Serviços Financeiros
+                    Postada: 29 de Janeiro de 2019
+                
+                
+                  
+                  
+                  Ir para o site da Vaga
+                  
+                  
+                    
+                        
+                            
+                                API
+                            
+                        
+                    
+                    
+                        Descrição da vaga
+                        
+                          
+                            EditarAtuar com desenvolvimento web na geração de Front End, API e Dashobards para projeto institucional. O processo de desenvolvimento segue uma metodologia ágil, com ênfase na qualidade.
+                          
+                        
+                    
+                    
+                        Requisitos
+                        
+                          
+                            Conhecimento em Python. Conhecimento em Flask ou Django. Conhecimento em Front end (HTML, CSS, JavaScript). Conhecimento em banco de dados relacionais. Conhecimento em GIT, GITHUB. Ensino Superior cursando no segmento de TI. Desejável experiência em TI. Inglês Intermediário
+                          
+                        
+                    
+                
+            
+        

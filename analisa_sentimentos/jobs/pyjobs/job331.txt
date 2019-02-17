@@ -1,0 +1,48 @@
+
+            
+                
+                    Analista de Dados
+                    Local da vaga: Bela Vista - são paulo, SP
+                    Empresa: Konduto
+                    Postada: 11 de Fevereiro de 2019
+                
+                
+                  
+                  
+                  Ir para o site da Vaga
+                  
+                  
+                    
+                        
+                            
+                                Machine Learning
+                            
+                                Python
+                            
+                        
+                    
+                    
+                        Descrição da vaga
+                        
+                          
+                            Como Analista de Dados você terá uma função chave na Konduto: entender, explorar e transformar os dados que coletamos, além de treinar e modificar os modelos de risco dos nossos principais clientes. Usamos machine learning e inteligência artificial para barrar fraudes na internet. É um jogo de gato e rato: o fraudador se adapta e a gente tem que correr atrás. Você será responsável por criar e adaptar os modelos para que eles não tenham sucesso!
+
+Análise de dados é fundamental para nós. Temos centenas de clientes que usam o nosso algoritmo, com mais de 12 milhões de análises processadas todos os meses. Receber, processar e transformar estes dados para serem mastigados pelo algoritmo é uma grande tarefa, e algo que não para nunca!
+
+Principais atividades
+
+- Monitorar ativamente a performance dos modelos treinados - Explorar os dados transacionais para encontrar novos padrões de fraude - Criar, junto com o time de TI, novos sinais (features) que podemos coletar ou calcular - Trocar informações com os times de Monitoramento e Risco sobre transações suspeitas
+                          
+                        
+                    
+                    
+                        Requisitos
+                        
+                          
+                            - Ótimo pensamento analítico e base de estatística- Boas noções de python, de preferência com bibliotecas de machine learning- Saber priorizar tarefas e gerenciar projetos com prazos- Curiosidade para estudar novas tecnologias e algoritmos
+                          
+                        
+                    
+                
+            
+        
