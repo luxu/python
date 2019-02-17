@@ -5,3 +5,4 @@ geckodriver.log
 remuneracaoSAP.txt
 player_br.txt
 .log
+__pycache__
