@@ -1,0 +1,44 @@
+
+            
+                
+                    Programador fullstack - Backend Python - Frontend Web (React + Redux)
+                    Local da vaga: Home office
+                    Empresa: Hermes Braindeck
+                    Postada: 30 de Janeiro de 2019
+                
+                
+                  
+                    
+                      Você precisa estar logado para aplicar para esta vaga!
+                    
+                  
+                    
+                        
+                            
+                                Lua
+                            
+                                Python
+                            
+                                React.js
+                            
+                        
+                    
+                    
+                        Descrição da vaga
+                        
+                          
+                            Procura-se programador com experiência em Pyhton, react web e Lua para projeto científico no campo de interfaces cérebro-computador.  O desenvolvedor construirá um middleware em Python e sua comunicação com uma UI web.
+                          
+                        
+                    
+                    
+                        Requisitos
+                        
+                          
+                            - Backend Python- Frontend Web (React + Redux)- Scripting em Lua
+                          
+                        
+                    
+                
+            
+        

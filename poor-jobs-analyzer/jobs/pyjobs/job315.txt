@@ -1,0 +1,56 @@
+
+            
+                
+                    Estagiário de Desenvolvimento
+                    Local da vaga: Av Paulista 1439, São Paulo -SP
+                    Empresa: Tikal TEch
+                    Postada: 29 de Janeiro de 2019
+                
+                
+                  
+                    
+                      Você precisa estar logado para aplicar para esta vaga!
+                    
+                  
+                    
+                        
+                            
+                                CSS
+                            
+                                Django
+                            
+                                Flask
+                            
+                                HTML5
+                            
+                                JavaScript
+                            
+                                Python
+                            
+                        
+                    
+                    
+                        Descrição da vaga
+                        
+                          
+                            Somos uma empresa de Tecnologia que resolve problemas da área jurídica (LegalTech). Queremos acabar com as burocracias, melhorar o entendimento dos processos para pessoas que não são da área e advogar de forma inteligente. Gostamos de resolver problemas . Temos 4 produtos no mercado: Diligeiro, Legalnote, SeuProcesso e o ELI o robô assistente dos advogados.
+
+Atividades e Responsabilidades:Irá se desenvolver e trabalhar na criação e manutenção de Crawlers, projetos web e automação.
+
+RequisitosVocê trabalhará juntamente a outros desenvolvedores que vão te ajudar a se desenvolver como programador e na carreira. Será responsável pela expansão e manutenção de diversos crawlers, desenvolverá APIs e terá a oportunidade de trabalhar com Requests, Selenium, Django, Flask, DRF, etc.
+                          
+                        
+                    
+                    
+                        Requisitos
+                        
+                          
+                            O que você precisa saber bem: - Python - Lógica de Programação
+
+Melhor ainda se você souber: - Django - HTML - CSS - jQuery
+                          
+                        
+                    
+                
+            
+        

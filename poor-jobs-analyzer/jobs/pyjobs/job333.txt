@@ -1,0 +1,42 @@
+
+            
+                
+                    Desenvolvedor(a) Back-end Sênior
+                    Local da vaga: arra da Tijuca - Rio de Janeiro, RJ
+                    Empresa: Winnin
+                    Postada: 11 de Fevereiro de 2019
+                
+                
+                  
+                  
+                  Ir para o site da Vaga
+                  
+                  
+                    
+                        
+                            
+                                SQL
+                            
+                                Python
+                            
+                        
+                    
+                    
+                        Descrição da vaga
+                        
+                          
+                            O Winnin é um SAAS de inteligência de vídeo para a internet, com nossa tecnologia, ajudamos empresas no mundo todo a criar conteúdo de qualidade para internet. Para fazer isso coletamos e analisamos dados globais de consumo de vídeo na internet. Big data e machine learning estão no coração da nossa empresa. Além disso, buscamos de maneira incessante, termos um ambiente super descontraído onde todos são ouvidos.
+                          
+                        
+                    
+                    
+                        Requisitos
+                        
+                          
+                            - Experiência significativa em desenvolvimento de software- Conhecimento intermediário/avançado de sql e banco de dados relacionais- Fortes conhecimentos de arquitetura de sistemas
+                          
+                        
+                    
+                
+            
+        

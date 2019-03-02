@@ -1,0 +1,1 @@
+ Desenvolvedor Python/Selenium (Pleno e Senior) Local da vaga: São Paulo Empresa: Replikante Postada: 5 de Fevereiro de 2019 Você precisa estar logado para aplicar para esta vaga! Flask Python Selenium Descrição da vaga Desenvolver soluções de RPA utilizando Python + Selenium. Requisitos - Conhecimentos em Selenium- Conhecimentos em Flask- Bom nível em Python 

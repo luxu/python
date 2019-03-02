@@ -1,0 +1,44 @@
+
+            
+                
+                    Desenvolvedor(a) Backend PHP e Python
+                    Local da vaga: Vila Mariana - São Paulo, SP
+                    Empresa: Weef
+                    Postada: 11 de Fevereiro de 2019
+                
+                
+                  
+                  
+                  Ir para o site da Vaga
+                  
+                  
+                    
+                        
+                            
+                                SQL
+                            
+                                PHP
+                            
+                                Python
+                            
+                        
+                    
+                    
+                        Descrição da vaga
+                        
+                          
+                            Somos uma produtora web reconhecida como parceira preferencial de algumas das mais renomadas agências do país. Estamos contratando profissional para ampliar nosso time e agregar novas competências. O(a) programador(a) será responsável pelo desenvolvimento de aplicações web e APIs.
+                          
+                        
+                    
+                    
+                        Requisitos
+                        
+                          
+                            - Domínio das linguagens Python e PHP- Experiência comprovada em desenvolvimento de aplicações web (apresentar portfólio)- Experiência no desenvolvimento de webservices, microservices e REST API- Experiência com Banco de Dados SQL e NoSQL- Experiência com projetos desenvolvidos em equipe- JavaScript intermediário- Planejamento e análise de soluções- Conhecimento básico de Front-end: HTML5, CSS3, SASS, Bootstrap e jQuery
+                          
+                        
+                    
+                
+            
+        

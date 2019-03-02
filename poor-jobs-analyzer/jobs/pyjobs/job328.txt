@@ -1,0 +1,56 @@
+
+            
+                
+                    Dev Backend Python
+                    Local da vaga: Florianópolis
+                    Empresa: Sbtur Viagens e Turismo
+                    Postada: 6 de Fevereiro de 2019
+                
+                
+                  
+                  
+                  Ir para o site da Vaga
+                  
+                  
+                    
+                        
+                            
+                                AWS
+                            
+                                CSS
+                            
+                                Django
+                            
+                                JavaScript
+                            
+                                MySQL
+                            
+                                PostgreSQL
+                            
+                                Python
+                            
+                        
+                    
+                    
+                        Descrição da vaga
+                        
+                          
+                            Estamos buscando Dev Back-End (Python) para integrar o time de produto da SBTUR. Acreditamos que viajar faz bem, que todos os brasileiros merecem viajar e que a tecnologia pode ser a maior propulsora deste propósito. Trabalhamos em um ambiente de construção, leve e descontraído.
+
+ATIVIDADES:
+
+Desenvolver e manter aplicações de Backend na linguagem Python 3 + DjangoDesenvolver micro-serviços;Modelar bancos de dados usando MySQL e Postgres;Interagir com outras equipes e profissionais, incluindo desenvolvedores, designers e stakeholders das áreas/squads; Saber trabalhar em equipe e compartilhar conhecimentos;Escrever código bonito, legível e escalável;Revisar o código de outros desenvolvedores (Code Review); Participar dos Sprint Plannings e reuniões diárias;Codificar e aplicar testes unitários;Construir estimativas e planejar roteiros junto à equipe.
+                          
+                        
+                    
+                    
+                        Requisitos
+                        
+                          
+                            Para ter sucesso, as seguintes habilidades são necessárias: Conhecimento em Python 3;Experiência com Modelagem e consumo de API's RESTExperiência com processos de implantação como Docker, AWS, Heroku; Modelagem de bancos de dados relacionais, preferencialmente PostgreSQL; Experiência com sistemas UNIX e terminal;Experiência com Amazon AWS (especialmente EC2,S3, RDS) Conhecimento sobre desenvolvimento básico de front-end como: HTML, CSS e Javascript;Conhecimento sobre código limpo (clean code) e padrões de projeto;Ser autodidata;Estar atualizado com as últimas notícias e tecnologias sobre desenvolvimento; Boa capacidade de comunicação;Experiência com o GitHub;Inglês técnico.
+                          
+                        
+                    
+                
+            
+        

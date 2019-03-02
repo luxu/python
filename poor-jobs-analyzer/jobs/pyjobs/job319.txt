@@ -1,0 +1,62 @@
+
+            
+                
+                    Desenvolvedor(a) Backend Python
+                    Local da vaga: São Paulo
+                    Empresa: Luizalabs (Magazine Luiza)
+                    Postada: 30 de Janeiro de 2019
+                
+                
+                  
+                  
+                  Ir para o site da Vaga
+                  
+                  
+                    
+                        
+                            
+                                API
+                            
+                                AWS
+                            
+                                Django
+                            
+                                Flask
+                            
+                                GitHub
+                            
+                                Python
+                            
+                        
+                    
+                    
+                        Descrição da vaga
+                        
+                          
+                            Buscamos desenvolvedores que queiram fazer parte do nosso time de B2B no escritório de São Paulo e que sejam apaixonados por construir sistemas distribuídos e aplicações de alta performance; que estejam dispostos a fazer experimentações em larga escala e utilizar a nossa grande base de clientes e empresas para testar e amplificar o impacto de nossas ações.
+                          
+                        
+                    
+                    
+                        Requisitos
+                        
+                          
+                            - Experiência com Python
+
+- Frameworks web: Django, Flask, Tornado, Muffin, Aiohttp, outros
+
+- Testes automatizados (gostamos de pytest!)
+
+- Documentação de código e serviços
+
+- Desenvolvimento e consumo de APIs REST
+
+- Git (usamos Github)
+
+- AWS (EC2, SQS, DynamoDB, outros)
+                          
+                        
+                    
+                
+            
+        
