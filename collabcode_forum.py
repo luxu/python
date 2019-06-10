@@ -9,13 +9,12 @@ def carregar(url):
 
 
 def parse(soup):
+    infos = list()
     for caixa in soup.find_all('div', class_='Box-row'):
         base = caixa.find('a')
         texto = caixa.find('a').text
         if '#0' in texto:
             link = base.get('href')
-            # print(texto)
-            # print(link)
             new_url = 'https://github.com%s' % link
             new_soup = carregar(new_url)
             new_soup.find_all('h3', class_="timeline-comment-header-text")[0]
@@ -24,11 +23,19 @@ def parse(soup):
                 'h3', class_="timeline-comment-header-text")[0] \
                 .find('relative-time').get('datetime')
             for value in new_soup.findAll('td', class_='comment-body'):
-                print(value.text)
-                print(author,' - ',hour_comment)
-                print('*'*66)
+                item = dict()
+                item  = {
+                    'author':author,
+                    'hour' : hour_comment,
+                    'description' : value.text
+                }
+                infos.append(item)
+    return infos
+
 
 if __name__ == '__main__':
     url = 'https://github.com/CollabCodeTech/forum-do-front-ao-end/issues'
     soup = carregar(url)
-    parse(soup)
+    infos = parse(soup)
+    for info in reversed(infos):
+        print(info)

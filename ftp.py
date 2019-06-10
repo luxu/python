@@ -2,7 +2,7 @@ from time import sleep
 from ftplib import FTP
 import os
 from time import sleep
-from decouple import config
+# from decouple import config
 import json
 import configparser
 

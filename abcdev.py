@@ -8,7 +8,10 @@ class ABCDevSpider(scrapy.Spider):
             'https://2018.abcdevelopers.org/'
         ]
         for url in urls:
-            yield scrapy.Request(url=url, callback=self.parse)
+            yield scrapy.Request(
+                url=url,
+                callback=self.parse
+            )
 
     def parse(self, response):
         speaker_names = response.css(

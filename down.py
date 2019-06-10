@@ -7,7 +7,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import Select
 
-def donwload(arquivo):
+def download(arquivo='teste'):
 	# arq = 'C:\\caminho\\testes\\'+ arquivo
 	diretorio = u'{}/{}'.format(os.getcwd(),'testes')
 	arq = u'{}/{}'.format(diretorio,arquivo)
@@ -26,12 +26,12 @@ def donwload(arquivo):
 	driver.implicitly_wait(50)
 
 
-def inicio():
+def main():
 	diretorio = os.getcwd()
 	# pasta = u'{}/{}'.format(diretorio,'molecula.pdb')
 	# pasta = os.listdir("C:\\caminho\\testes")
-	# if not os.path.exists("testes"):
-	# 	os.makedirs("testes")
+	if not os.path.exists("testes"):
+		os.makedirs("testes")
 	pasta = os.listdir("testes")
 	dir_testes = u'{}/{}'.format(os.getcwd(),'testes')
 	arquivos = [arq for arq in pasta if os.path.isfile(os.path.join(dir_testes, arq))]
@@ -71,4 +71,6 @@ def inicio():
 	[shutil.move(origem+j,'Destino') for j in jpgs]
 	print(os.listdir("Destino"))
 
-inicio()
+if __name__ == '__main__':
+	# main()
+	download()

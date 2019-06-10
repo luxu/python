@@ -1,0 +1,27 @@
+{
+    "name": "luxu/project",
+    "description": "Test of list telephone",
+    "minimum-stability": "dev",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "luxu",
+            "email": "zicadopv@gmail.com"
+        }
+    ],
+	  "autoload": {
+	    "psr-4": {
+	      "project\\": "src/"
+	    },
+	    "files": [
+	      "src/bootstrap.php"
+		]
+	},
+    "require": {
+        "danielstjules/stringy": "dev-master"
+    },
+  	"scripts": {
+	    "cli": "php public_html/index.php",
+	    "http": "php -S localhost:8000 -t public_html/"
+	}
+}
