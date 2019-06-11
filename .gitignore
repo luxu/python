@@ -1,6 +1,7 @@
 *.png
 *.ini
 *.yml
+*.idea
 geckodriver.log
 remuneracaoSAP.txt
 player_br.txt
