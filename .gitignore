@@ -3,8 +3,6 @@
 *.yml
 *.idea
 geckodriver.log
-remuneracaoSAP.txt
-player_br.txt
 .log
 __pycache__
 \.envs\.local
