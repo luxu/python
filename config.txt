@@ -4,9 +4,9 @@ login=
 senha=
 
 [luciano]
-ftp=
-login=
-senha=
+ftp=192.175.124.120
+login=luxucom
+senha=L3LCoMux@4BrL#
 loginGmail=
 senhaGmail=
 

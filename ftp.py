@@ -1,22 +1,23 @@
 from time import sleep
 from ftplib import FTP
 import os
+import environ
 from time import sleep
-from decouple import config
 import json
-import configparser
 
-# Carrega as configurações de arquivo externo
-config = configparser.ConfigParser()
-config.read('config.ini')
+ROOT_DIR = environ.Path(__file__) - 1
 
-file = ""
-# https://docs.python.org/3/library/ftplib.html
+env = environ.Env()
+env.read_env(ROOT_DIR('.envs/.env'))
 
-def conectar(self):
-	ftp = FTP(self['ftp'])
-	ftp.login(self['login'],self['senha'])
-	return ftp
+
+def conectar(conectar_a_conta):
+	if conectar_a_conta == 'luciano':
+		print(env('HOST'), env('USERNAME'), env('PASSWORD'))
+		return FTP(env('HOST'),env('USERNAME'), env('PASSWORD'))
+	else:
+		print(env('fHOST'), env('fUSERNAME'), env('fPASSWORD'))
+		return FTP(env('fHOST'),env('fUSERNAME'), env('fPASSWORD'))
 
 # ftp.dir('public_html')
 
@@ -63,24 +64,14 @@ def upload(self):
 
 def ftps(submenu):
 	if submenu == "1":
-		fabrizio = {
-			"login": config['fabrizio']['user'],
-			"senha": config['fabrizio']['password2'],
-			"ftp": config['fabrizio']['host']
-		}
-		listar(conectar(fabrizio))
+		connection = conectar('fabrizio')
+		listar(connection)
 		baixar = input("Fazer download?(S)im/(N)ão.: ")
 		if (baixar == 's' or baixar == 's'.upper()):
 			nome = input("Nome do arquivo.: ")
 			print(download(connection,nome))
 	elif submenu == "2":
-		luciano = {
-			"login": config['luciano']['user'],
-			"senha": config['luciano']['password'],
-			"ftp": config['luciano']['host']
-		}
-		connection = conectar(luciano)
-		listar(connection)
+		listar(conectar('luciano'))
 		baixar = input("Fazer download?(S)im/(N)ão.: ")
 		if (baixar == 's' or baixar == 's'.upper()):
 			nome = input("Nome do arquivo.: ")
@@ -88,37 +79,17 @@ def ftps(submenu):
 	elif submenu == "3":
 		conexao = input("Conectar em?(F)abrizio/(L)uciano.: ")
 		if (conexao == 'f' or conexao == 'f'.upper()):
-			fabrizio = {
-				"login": config['fabrizio']['user'],
-				"senha": config['fabrizio']['password'],
-				"ftp": config['fabrizio']['host']
-			}
-			connection = conectar(fabrizio)
+			connection = conectar('fabrizio')
 		else:
-			luciano = {
-				"login": config['luciano']['user'],
-				"senha": config['luciano']['password'],
-				"ftp": config['luciano']['host']
-			}
-			connection = conectar(luciano)
+			connection = conectar('luciano')
 		delete(connection)
 		listar(connection)
 	elif submenu == "5":
 		conexao = input("Conectar em?(F)abrizio/(L)uciano.: ")
 		if (conexao == 'f' or conexao == 'f'.upper()):
-			fabrizio = {
-				"login": config['fabrizio']['user'],
-				"senha": config['fabrizio']['password'],
-				"ftp": config['fabrizio']['host']
-			}
-			connection = conectar(fabrizio)
+			connection = conectar('fabrizio')
 		else:
-			luciano = {
-				"login": config['luciano']['user'],
-				"senha": config['luciano']['password'],
-				"ftp": config['luciano']['host']
-			}
-			connection = conectar(luciano)
+			connection = conectar('luciano')
 		upload(connection)
 		listar(connection)
 	elif submenu == "4":
@@ -147,19 +118,5 @@ def main():
 	while submenu != "4":
 		submenu = menu()
 main()
-# json_string = json.dumps(config('LUCIANO'))
-# json_string = json.loads(json_string)
-# print(json_string["login"])
-# os.environ['DEBUG'] = True
-'''
-for a in os.environ:
-	print('Var: ', a, 'Value: ', os.getenv(a))
-if os.environ['PUBLIC']:
-    print(True)
-else:
-    print(False)
-    # main()
-'''
-# listar()
-# upload()
-# download()
+# for a in os.environ:
+# 	print('Var: ', a, 'Value: ', os.getenv(a))

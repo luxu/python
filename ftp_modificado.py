@@ -7,8 +7,11 @@ from pdb import set_trace
 file = ""
 
 def conectar(self):
-	ftp = FTP(self['ftp'])
-	ftp.login(self['login'],self['senha'])
+	# ftp = FTP(self['ftp'])
+	# ftp.login(self['login'],self['senha'])
+	ftp = ftp("ftp.luxu.com.br","luxucom","L3LCoMux@4BrL#")
+	ftp.dir()
+	# conn = f'"{self['ftp']}","{self['login']}","{self['senha']}"'
 	return ftp
 
 def listar(self,directory):
