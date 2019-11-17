@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Carroussel</title>
+	<style>
+		div {
+			padding: 5px;
+			border: 1px solid;
+		}
+	</style>
+</head>
+<body>
+	<div>
+		Teste
+		<button>Teste</button>
+		<a href="#teste1">Teste 1</a>
+		<a href="#teste2">Teste 2</a>
+		<a href="#teste3">Teste 3</a>
+		<a href="#teste4">Teste 4</a>
+	</div>
+	<script>
+		document.querySelector('div').addEventListener('click', ()=> {
+			alert('Clicou na div')
+		})
+		document.querySelector('div').addEventListener('navigate', (ev)=>{
+			console.log(ev.detail.url)
+		})
+		document.querySelector('button').addEventListener('click', (ev)=> {
+			alert('Clicou no button')
+			ev.stopPropagation()
+		})
+		document.querySelectorAll('a').forEach(link=>{
+			link.addEventListener('click', (ev)=>{
+				ev.stopPropagation()
+				ev.preventDefault()
+				let navigate=new CustomEvent('navigate', {detail: {url:link.getAttribute('href')}})
+				document.querySelector('div').dispatchEvent(navigate)
+			})
+		})
+	</script>
+</body>
+</html>

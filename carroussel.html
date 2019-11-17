@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Carroussel</title>
+	<style>
+		div.carroussel {
+			position: relative;
+			height: 440px;
+		}
+		div.carroussel > div.item {
+			position: absolute;
+			top:0;
+			opacity: 0;
+		}
+		div.carroussel > div.item.active {
+			opacity: 1;
+			z-index: 1;
+		}
+	</style>
+</head>
+<body>
+	<div class="carroussel">
+		<div class="item active">
+			<img src="sk1.jpeg" /><p>Sk 1</p>
+		</div>
+		<div class="item">
+			<img src="sk2.jpg" /><p>Sk 2</p>
+		</div>
+		<div class="item">
+			<img src="sk3.jpeg" /><p>Sk 3</p>
+		</div>
+		<div class="item">
+			<img src="sk4.jpeg" /><p>Sk 4</p>
+		</div>
+	</div>
+	<div class="carroussel">
+		<div class="item active">
+			<img src="sk1.jpeg" /><p>Sk 1</p>
+		</div>
+		<div class="item">
+			<img src="sk2.jpg" /><p>Sk 2</p>
+		</div>
+		<div class="item">
+			<img src="sk3.jpeg" /><p>Sk 3</p>
+		</div>
+		<div class="item">
+			<img src="sk4.jpeg" /><p>Sk 4</p>
+		</div>
+	</div>
+	<script>
+		windows.addEventListener('load', ()=>{
+			document.querySelector('.carroussel').
+		})
+	</script>
+</body>
+</html>
