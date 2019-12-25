@@ -152,7 +152,7 @@ headers = {
 }
 
 
-data = '{"login":"20443596859","senha":"222222","nome":"","tipoCliente":1}'
+data = '{"login":"20443596859","senha":"","nome":"","tipoCliente":1}'
 
 
 def logar(html):
